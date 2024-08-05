@@ -36,3 +36,5 @@ Once the application is running, you can access it through the user interface to
 ## Contributing
 
 We welcome contributions from the community! Please feel free to fork the repository and submit pull requests.
+
+© All Copyright 2024 by letanloc-tlooc
